@@ -1,0 +1,480 @@
+.
+├── Art
+├── Math
+│   ├── Algebra
+│   │   ├── Abstract
+│   │   ├── Elementary
+│   │   ├── Linear
+│   │   └── Multilinear
+│   ├── Analysis
+│   │   ├── Calculus
+│   │   ├── ComplexAnalysis
+│   │   ├── DifferentialEquations
+│   │   ├── FunctionalAnalysis
+│   │   └── RealAnalysis
+│   ├── Applied
+│   │   ├── ControlTheory
+│   │   ├── Economics
+│   │   ├── Finance
+│   │   ├── Physics
+│   │   ├── Probability
+│   │   └── Statistics
+│   ├── Computational
+│   │   ├── ComputerAlgebra
+│   │   ├── ComputerScience
+│   │   │   ├── AdaptiveSystems
+│   │   │   │   ├── EvolutionaryAlgorithms
+│   │   │   │   └── NeuralNetworks
+│   │   │   ├── Algorithms
+│   │   │   │   ├── NumericalAnalysis
+│   │   │   │   ├── Parsing
+│   │   │   │   ├── Searching
+│   │   │   │   └── Sorting
+│   │   │   ├── CompilerTheory
+│   │   │   ├── Complexity
+│   │   │   │   ├── ComputationalComplexityTheory
+│   │   │   │   └── NPCompleteness
+│   │   │   ├── Computability
+│   │   │   ├── DataStructures
+│   │   │   │   ├── HashTables
+│   │   │   │   ├── Lists
+│   │   │   │   └── Trees
+│   │   │   └── FormalMethods
+│   │   │       ├── ProgramSynthesis
+│   │   │       └── ProofOfCorrectness
+│   │   ├── NumericalAnalysis
+│   │   ├── Optimization
+│   │   └── TheoryOfComputation
+│   ├── Discrete
+│   │   ├── Combinatorics
+│   │   ├── GameTheory
+│   │   ├── GraphTheory
+│   │   └── OrderTheory
+│   ├── Foundations
+│   │   ├── CategoryTheory
+│   │   ├── InformationTheory
+│   │   ├── Logic
+│   │   ├── ModelTheory
+│   │   ├── PhilosophyOfMath
+│   │   ├── ProofTheory
+│   │   └── SetTheory
+│   ├── Geometry
+│   │   ├── Algebraic
+│   │   ├── Analytic
+│   │   ├── Differential
+│   │   ├── Discrete
+│   │   ├── Euclidean
+│   │   └── Finite
+│   ├── NumberTheory
+│   │   ├── AlgebraicNumberTheory
+│   │   ├── AnalyticNumberTheory
+│   │   ├── Arithmetic
+│   │   └── DiophantineGeometry
+│   └── Topology
+│       ├── Algebraic
+│       ├── Differential
+│       └── Geometric
+├── Philosophy
+├── Programming
+└── Science
+    ├── Applied
+    │   ├── Agronomy
+    │   │   ├── Agriculture
+    │   │   │   ├── Cuniculture
+    │   │   │   ├── Fungiculture
+    │   │   │   ├── Heliciculture
+    │   │   │   ├── Olericulture
+    │   │   │   └── Sericulture
+    │   │   ├── AnimalHusbandry
+    │   │   ├── Aquaculture
+    │   │   │   ├── Algaculture
+    │   │   │   └── Mariculture
+    │   │   ├── Food
+    │   │   ├── Forestry
+    │   │   │   ├── Arboriculture
+    │   │   │   └── Silviculture
+    │   │   ├── Horticulture
+    │   │   │   ├── Floriculture
+    │   │   │   └── Hydroculture
+    │   │   │       └── Hydroponics
+    │   │   └── Permaculture
+    │   ├── AppliedLinguistics
+    │   ├── AppliedPhysics
+    │   │   ├── Nanotechnology
+    │   │   ├── NuclearTechnology
+    │   │   └── Optics
+    │   ├── Architecture
+    │   │   ├── ArchitecturalEngineering
+    │   │   └── BuildingScience
+    │   ├── ComputerTechnology
+    │   │   ├── ComputerEngineering
+    │   │   ├── InformationSystems
+    │   │   └── InformationTechnology
+    │   ├── Electronics
+    │   ├── EnergyTechology
+    │   │   ├── ByApplications
+    │   │   │   ├── Biofuel
+    │   │   │   ├── DistributedGeneration
+    │   │   │   ├── ElectricVehicle
+    │   │   │   ├── HybridVehicle
+    │   │   │   ├── HydrogenVehicle
+    │   │   │   ├── PassiveSolarBuilding
+    │   │   │   └── SteamEngine
+    │   │   ├── ByForms
+    │   │   │   ├── Chemical
+    │   │   │   ├── Electrical
+    │   │   │   ├── Gravitational
+    │   │   │   ├── Ionization
+    │   │   │   ├── Kinetic
+    │   │   │   ├── Magnetic
+    │   │   │   ├── Mechanical
+    │   │   │   │   └── MechanicalWave
+    │   │   │   ├── Potential
+    │   │   │   ├── Radiant
+    │   │   │   ├── Rest
+    │   │   │   ├── Surface
+    │   │   │   ├── Thermal
+    │   │   │   └── Work
+    │   │   └── ByInfrastructure
+    │   │       ├── ElectricGeneration
+    │   │       ├── ElectricRetailing
+    │   │       ├── EnergyGeneration
+    │   │       ├── EnergyStorage
+    │   │       │   ├── Biofuel
+    │   │       │   ├── Boron
+    │   │       │   ├── Electrochemical
+    │   │       │   ├── Hydrogen
+    │   │       │   ├── Mechanical
+    │   │       │   ├── Methane
+    │   │       │   ├── Silicon
+    │   │       │   ├── Thermal
+    │   │       │   └── Zinc
+    │   │       ├── GridEnergyStorage
+    │   │       ├── LiquifiedNaturalGas
+    │   │       ├── MicrowarePowerTransmission
+    │   │       ├── PowerStation
+    │   │       ├── PowerTransmission
+    │   │       └── UndergroundPowerStation
+    │   ├── Engineering
+    │   │   ├── Aeronautical
+    │   │   │   └── Aerospace
+    │   │   ├── AppliedEngineering
+    │   │   ├── Biological
+    │   │   │   ├── Agricultural
+    │   │   │   ├── Biochemical
+    │   │   │   ├── Bioengineering
+    │   │   │   ├── Biomechanical
+    │   │   │   ├── Biomedical
+    │   │   │   ├── Bioprocess
+    │   │   │   ├── Ergonomics
+    │   │   │   ├── Food
+    │   │   │   ├── Genetic
+    │   │   │   ├── Metabolic
+    │   │   │   ├── Molecular
+    │   │   │   ├── Neural
+    │   │   │   ├── Protein
+    │   │   │   ├── Rehabilitation
+    │   │   │   └── Tissue
+    │   │   ├── Chemical
+    │   │   │   ├── Biomolecular
+    │   │   │   ├── Explosive
+    │   │   │   └── Process
+    │   │   ├── Civil
+    │   │   │   ├── Aquatic+Environmental
+    │   │   │   ├── Architectural
+    │   │   │   ├── Civionic
+    │   │   │   ├── Construction
+    │   │   │   ├── Earthquake
+    │   │   │   ├── EarthSystems
+    │   │   │   ├── Ecological
+    │   │   │   ├── Environmental
+    │   │   │   ├── Geomatics
+    │   │   │   ├── Geotechnical
+    │   │   │   ├── Highway
+    │   │   │   ├── Hydraulic
+    │   │   │   ├── LandDevelopment
+    │   │   │   ├── Landscape
+    │   │   │   ├── Pavement
+    │   │   │   ├── RailwaySystems
+    │   │   │   ├── River
+    │   │   │   ├── Sanitary
+    │   │   │   ├── Sewage
+    │   │   │   ├── Structural
+    │   │   │   ├── Surveying
+    │   │   │   ├── Traffic
+    │   │   │   ├── Transportation
+    │   │   │   └── Urban
+    │   │   ├── ComputerEngineering
+    │   │   │   └── ArtificialIntelligence
+    │   │   │       ├── ByApplication
+    │   │   │       │   ├── ArtificialCreativity
+    │   │   │       │   ├── ArtificialLife
+    │   │   │       │   ├── AutomatedPlanning
+    │   │   │       │   ├── AutomatedReasoning
+    │   │   │       │   ├── AutomaticTargetRecognition
+    │   │   │       │   ├── Automation
+    │   │   │       │   ├── BiologicalInspiredComputing
+    │   │   │       │   ├── ComputerAudition
+    │   │   │       │   │   ├── SpeakerRecognition
+    │   │   │       │   │   └── SpeechRecognition
+    │   │   │       │   ├── ComputerVision
+    │   │   │       │   │   ├── FacialRecognition
+    │   │   │       │   │   │   └── SilentSpeech
+    │   │   │       │   │   ├── ImageProcessing
+    │   │   │       │   │   ├── IntelligentWordRecognition
+    │   │   │       │   │   ├── ObjectMarkRecognition
+    │   │   │       │   │   │   ├── HandwritingRecognition
+    │   │   │       │   │   │   └── OpticalCharacterRecognition
+    │   │   │       │   │   │       └── AutomaticNumberPlateRecognition
+    │   │   │       │   │   └── ObjectRecognition
+    │   │   │       │   ├── Diagnosis
+    │   │   │       │   ├── ExpertSystem
+    │   │   │       │   │   └── DecisionSupportSystem
+    │   │   │       │   │       └── ClinicalDecisionSupportSystem
+    │   │   │       │   ├── GameAI
+    │   │   │       │   │   ├── ComputerGameBot
+    │   │   │       │   │   ├── GameTheory
+    │   │   │       │   │   ├── GeneralGamePlaying
+    │   │   │       │   │   ├── GeneralVideoGamePlaying
+    │   │   │       │   │   └── VideoGameAI
+    │   │   │       │   │       ├── ComputerChess
+    │   │   │       │   │       └── ComputerGo
+    │   │   │       │   ├── HybridIntelligentSystem
+    │   │   │       │   ├── IntelligentAgent
+    │   │   │       │   │   └── AgentArchitecture
+    │   │   │       │   │       └── CognitiveArchitecture
+    │   │   │       │   ├── IntelligentControl
+    │   │   │       │   ├── KnowledgeManagement
+    │   │   │       │   │   ├── ConceptMining
+    │   │   │       │   │   │   ├── DataMining
+    │   │   │       │   │   │   ├── ProcessMining
+    │   │   │       │   │   │   └── TextMining
+    │   │   │       │   │   ├── InformationExtraction
+    │   │   │       │   │   │   ├── ActivityRecognition
+    │   │   │       │   │   │   ├── ImageRetrieval
+    │   │   │       │   │   │   │   └── AutomaticImageAnnotation
+    │   │   │       │   │   │   └── NamedEntityExtraction
+    │   │   │       │   │   │       ├── CoreferenceResolution
+    │   │   │       │   │   │       ├── NamedEntityRecognition
+    │   │   │       │   │   │       ├── RelationshipExtraction
+    │   │   │       │   │   │       └── TerminologyExtraction
+    │   │   │       │   │   ├── KnowledgeRepresentation
+    │   │   │       │   │   ├── SemanticWeb
+    │   │   │       │   │   └── SpamFiltering
+    │   │   │       │   ├── NaturalLanguageProcessing
+    │   │   │       │   │   ├── Chatterbots
+    │   │   │       │   │   ├── LanguageIdentification
+    │   │   │       │   │   ├── MachineTranslation
+    │   │   │       │   │   │   └── StatisticalSemantics
+    │   │   │       │   │   ├── NLUnderstanding
+    │   │   │       │   │   ├── NLUserInterface
+    │   │   │       │   │   ├── QuestionAnswering
+    │   │   │       │   │   └── SemanticTranslation
+    │   │   │       │   ├── NonlinearControl
+    │   │   │       │   ├── Robotics
+    │   │   │       │   │   ├── BehaviorBased
+    │   │   │       │   │   ├── Cognitive
+    │   │   │       │   │   ├── Cybernetic
+    │   │   │       │   │   ├── Developmental
+    │   │   │       │   │   ├── Epigenetic
+    │   │   │       │   │   └── Evolutionary
+    │   │   │       │   ├── SpeechGeneration
+    │   │   │       │   ├── StrategicPlanning
+    │   │   │       │   ├── VehicleInfrastructureApplication
+    │   │   │       │   ├── VirtualIntelligence
+    │   │   │       │   └── VirtualReality
+    │   │   │       └── ByApproach
+    │   │   │           ├── Interpretational
+    │   │   │           │   └── GoodOldFashioned
+    │   │   │           ├── Subsymbolic
+    │   │   │           │   ├── BehavioralBased
+    │   │   │           │   │   └── SubsumptionArchitecture
+    │   │   │           │   ├── EarlyCybernetic+BrainSimulation
+    │   │   │           │   ├── Nouvelle
+    │   │   │           │   ├── SoftComputing
+    │   │   │           │   │   ├── ChaosTheory
+    │   │   │           │   │   ├── ComputationalCreativity
+    │   │   │           │   │   ├── EvolutionaryComputation
+    │   │   │           │   │   │   ├── BrainEmotionalLearingBasedIntelligentController
+    │   │   │           │   │   │   ├── EvolutionaryAlgorithms
+    │   │   │           │   │   │   │   ├── DifferentialEvolution
+    │   │   │           │   │   │   │   └── GeneticAlgorithms
+    │   │   │           │   │   │   └── Metaheuristic+SwarmIntelligence
+    │   │   │           │   │   │       ├── AntColonyOptimization
+    │   │   │           │   │   │       └── ParticalSwarmOptimization
+    │   │   │           │   │   ├── FuzzySystems
+    │   │   │           │   │   ├── MachineLearning
+    │   │   │           │   │   │   ├── NeuralNetworks
+    │   │   │           │   │   │   └── SupportVectorMachines
+    │   │   │           │   │   └── ProbabilisticMethods
+    │   │   │           │   │       ├── BayesianNetwork
+    │   │   │           │   │       ├── HiddenMarkovModel
+    │   │   │           │   │       └── KalmanFilter
+    │   │   │           │   └── Statistical
+    │   │   │           └── Symbolic
+    │   │   ├── Electrical
+    │   │   │   ├── Broadcast
+    │   │   │   ├── Building
+    │   │   │   ├── Control
+    │   │   │   ├── Electronic
+    │   │   │   ├── Instrumentation
+    │   │   │   ├── Network
+    │   │   │   ├── Neuromorphic
+    │   │   │   ├── PowerSystems
+    │   │   │   ├── Signal
+    │   │   │   └── Telecommunication
+    │   │   ├── EngineeringPhysics
+    │   │   ├── FireProtection
+    │   │   ├── Industrial
+    │   │   │   ├── Domain
+    │   │   │   ├── EngineeringEconomics
+    │   │   │   ├── EngineeringManagement
+    │   │   │   ├── EngineeringPsychology
+    │   │   │   ├── Ergonomics
+    │   │   │   ├── Facilities
+    │   │   │   ├── Logistic
+    │   │   │   ├── Model-driven
+    │   │   │   ├── Performance
+    │   │   │   ├── Process
+    │   │   │   ├── ProductFamily
+    │   │   │   ├── Quality
+    │   │   │   ├── Reliability
+    │   │   │   ├── Safety
+    │   │   │   ├── Security
+    │   │   │   ├── Support
+    │   │   │   └── Systems
+    │   │   ├── Marine
+    │   │   ├── Material
+    │   │   │   ├── AmorphousMetals
+    │   │   │   ├── Biomaterials
+    │   │   │   ├── Casting
+    │   │   │   ├── Ceramic
+    │   │   │   ├── Composites
+    │   │   │   ├── Corrosion
+    │   │   │   ├── Crystal
+    │   │   │   ├── ElectronicMaterials
+    │   │   │   ├── ForensicMaterials
+    │   │   │   ├── MetalForming
+    │   │   │   ├── Metallurgical
+    │   │   │   ├── NanoMaterials
+    │   │   │   ├── Plastic
+    │   │   │   ├── Surface
+    │   │   │   ├── Vitreous
+    │   │   │   └── Welding
+    │   │   ├── Mechanical
+    │   │   ├── Military
+    │   │   │   ├── Combat
+    │   │   │   └── MilitaryTechnology
+    │   │   ├── Mining
+    │   │   ├── Nuclear
+    │   │   ├── Petroleum
+    │   │   │   ├── Geophysical
+    │   │   │   ├── Mineral
+    │   │   │   ├── Mining
+    │   │   │   └── Reservoir
+    │   │   ├── Polymer
+    │   │   ├── Security
+    │   │   ├── Software
+    │   │   │   ├── ComputerAided
+    │   │   │   ├── InformationTechnology
+    │   │   │   ├── Knowledge
+    │   │   │   ├── Language
+    │   │   │   ├── Release
+    │   │   │   ├── Teletraffic
+    │   │   │   ├── Usability
+    │   │   │   └── Web
+    │   │   ├── Systems
+    │   │   └── Textile
+    │   ├── Environmental
+    │   │   ├── EnvironmentalTechnology
+    │   │   └── Fisheries
+    │   ├── Forensics
+    │   ├── Health
+    │   │   ├── ConservationMedicine
+    │   │   ├── Dentistry
+    │   │   ├── Medicine
+    │   │   │   ├── Anatomy
+    │   │   │   │   └── HumanAnatomy
+    │   │   │   ├── Cardiology
+    │   │   │   ├── Dermatology
+    │   │   │   ├── Endocrinology
+    │   │   │   ├── Gastroenterology
+    │   │   │   ├── Gynecology
+    │   │   │   ├── Immunology
+    │   │   │   ├── InternalMedicine
+    │   │   │   ├── Neurology
+    │   │   │   ├── Ophthalmology
+    │   │   │   ├── Pathology
+    │   │   │   ├── Pathophysiology
+    │   │   │   ├── Pediatrics
+    │   │   │   ├── Physiology
+    │   │   │   ├── Psychiatry
+    │   │   │   ├── Radiology
+    │   │   │   ├── Toxicology
+    │   │   │   └── Urology
+    │   │   ├── Nursing
+    │   │   ├── Nutrition
+    │   │   ├── Optometry
+    │   │   ├── Pharmacology
+    │   │   ├── PhysicalTherapy
+    │   │   └── VeterinaryMedicine
+    │   ├── MicroTechnology
+    │   ├── Military
+    │   │   ├── MilitaryEducation+Training
+    │   │   ├── MilitaryEngineering
+    │   │   ├── MilitaryHistory
+    │   │   ├── MilitaryOrganization
+    │   │   └── MilitaryStrategy+Tactics
+    │   └── Spacial
+    │       ├── GeographicInformationSystem
+    │       ├── Photogrammetry
+    │       └── RemoteSensing
+    ├── Natural
+    │   ├── Astronomy
+    │   ├── Biology
+    │   ├── Chemistry
+    │   ├── Earth
+    │   ├── Physics
+    │   └── README.md
+    └── Social
+        ├── Anthropology
+        ├── Archaeology
+        ├── Behavioral
+        ├── Civics
+        ├── CommunciationStudies
+        ├── ComputationalSocial
+        ├── Criminology
+        ├── Demography
+        ├── DevelopmentStudies
+        ├── Economics
+        ├── Education
+        ├── EnvironmentalSocial
+        ├── Geography
+        ├── History
+        ├── IndustrialRelations
+        ├── Information
+        ├── InternationalStudies
+        ├── Law
+        ├── LegalManagement
+        ├── LibraryScience
+        ├── Linguistics
+        ├── Management
+        │   ├── Accounting
+        │   ├── BusinessStrategy
+        │   ├── Finance
+        │   │   ├── Cost
+        │   │   └── Value
+        │   ├── Marketing
+        │   ├── Operations
+        │   ├── OrganizationalBehavior
+        │   └── OutlineManagement
+        ├── MediaStudies
+        ├── Oceanography
+        ├── Paleontology
+        ├── Political
+        ├── PoliticalEconomy
+        ├── Psychology
+        ├── PublicAdministration
+        └── Sociology
+
+477 directories
