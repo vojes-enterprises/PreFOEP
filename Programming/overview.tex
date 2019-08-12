@@ -1,0 +1,27 @@
+\chapter{Overview}
+
+\begin{tikzpicture}
+  
+\path[mindmap,concept color=black!20,
+  every node/.style={concept},
+  root/.style    = {concept color=black!20,text width=10em},
+  level 1 concept/.append style={sibling angle=50,text width=7.7em,
+  level distance=15em,inner sep=0pt},
+  level 2 concept/.append style={level distance=9em}]
+  node[root] {Programming} [clockwise from=0]
+    child[concept color=blue!30] {node {Paradigms} [clockwise from=90]
+      child {node {Functional}}
+      child {node {Imperative}}}
+    child[concept color=purple!30] {node {Languages} [clockwise from=30]
+      child {node {C}}
+      child {node {C++}}
+      child {node {Rust}}}
+    child[concept color=green!30] {node {Abstraction Level} [clockwise from=300]
+      child {node {Close to the machine (C, C++)}}
+      child {node {Medium (Go)}}
+      child {node {Far removed (Ruby, Python)}}}
+    child[concept color=brown!30] {node {Area} [clockwise from=220]
+      child {node {Frontend (GUI)}}
+      child {node {Backend}}
+      child {node {Kernel}}};
+\end{tikzpicture}
