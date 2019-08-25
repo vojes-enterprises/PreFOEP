@@ -1,8 +1,15 @@
 ![Imgur](https://i.imgur.com/BcBJOWq.png) 
+
 ![Badge](https://img.shields.io/badge/VE-FOEP-blue)
+
 # Free and Open Education Project (FOEP)
 
 From beginner to never end.
+
+## Contents
+- [Description](#description)
+- [NOTICE](#notice)
+- [Contributions](#contributions)
 
 ## Description
 

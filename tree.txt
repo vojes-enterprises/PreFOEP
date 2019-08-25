@@ -205,113 +205,118 @@
     │   │   │   ├── Transportation
     │   │   │   └── Urban
     │   │   ├── ComputerEngineering
-    │   │   │   └── ArtificialIntelligence
-    │   │   │       ├── ByApplication
-    │   │   │       │   ├── ArtificialCreativity
-    │   │   │       │   ├── ArtificialLife
-    │   │   │       │   ├── AutomatedPlanning
-    │   │   │       │   ├── AutomatedReasoning
-    │   │   │       │   ├── AutomaticTargetRecognition
-    │   │   │       │   ├── Automation
-    │   │   │       │   ├── BiologicalInspiredComputing
-    │   │   │       │   ├── ComputerAudition
-    │   │   │       │   │   ├── SpeakerRecognition
-    │   │   │       │   │   └── SpeechRecognition
-    │   │   │       │   ├── ComputerVision
-    │   │   │       │   │   ├── FacialRecognition
-    │   │   │       │   │   │   └── SilentSpeech
-    │   │   │       │   │   ├── ImageProcessing
-    │   │   │       │   │   ├── IntelligentWordRecognition
-    │   │   │       │   │   ├── ObjectMarkRecognition
-    │   │   │       │   │   │   ├── HandwritingRecognition
-    │   │   │       │   │   │   └── OpticalCharacterRecognition
-    │   │   │       │   │   │       └── AutomaticNumberPlateRecognition
-    │   │   │       │   │   └── ObjectRecognition
-    │   │   │       │   ├── Diagnosis
-    │   │   │       │   ├── ExpertSystem
-    │   │   │       │   │   └── DecisionSupportSystem
-    │   │   │       │   │       └── ClinicalDecisionSupportSystem
-    │   │   │       │   ├── GameAI
-    │   │   │       │   │   ├── ComputerGameBot
-    │   │   │       │   │   ├── GameTheory
-    │   │   │       │   │   ├── GeneralGamePlaying
-    │   │   │       │   │   ├── GeneralVideoGamePlaying
-    │   │   │       │   │   └── VideoGameAI
-    │   │   │       │   │       ├── ComputerChess
-    │   │   │       │   │       └── ComputerGo
-    │   │   │       │   ├── HybridIntelligentSystem
-    │   │   │       │   ├── IntelligentAgent
-    │   │   │       │   │   └── AgentArchitecture
-    │   │   │       │   │       └── CognitiveArchitecture
-    │   │   │       │   ├── IntelligentControl
-    │   │   │       │   ├── KnowledgeManagement
-    │   │   │       │   │   ├── ConceptMining
-    │   │   │       │   │   │   ├── DataMining
-    │   │   │       │   │   │   ├── ProcessMining
-    │   │   │       │   │   │   └── TextMining
-    │   │   │       │   │   ├── InformationExtraction
-    │   │   │       │   │   │   ├── ActivityRecognition
-    │   │   │       │   │   │   ├── ImageRetrieval
-    │   │   │       │   │   │   │   └── AutomaticImageAnnotation
-    │   │   │       │   │   │   └── NamedEntityExtraction
-    │   │   │       │   │   │       ├── CoreferenceResolution
-    │   │   │       │   │   │       ├── NamedEntityRecognition
-    │   │   │       │   │   │       ├── RelationshipExtraction
-    │   │   │       │   │   │       └── TerminologyExtraction
-    │   │   │       │   │   ├── KnowledgeRepresentation
-    │   │   │       │   │   ├── SemanticWeb
-    │   │   │       │   │   └── SpamFiltering
-    │   │   │       │   ├── NaturalLanguageProcessing
-    │   │   │       │   │   ├── Chatterbots
-    │   │   │       │   │   ├── LanguageIdentification
-    │   │   │       │   │   ├── MachineTranslation
-    │   │   │       │   │   │   └── StatisticalSemantics
-    │   │   │       │   │   ├── NLUnderstanding
-    │   │   │       │   │   ├── NLUserInterface
-    │   │   │       │   │   ├── QuestionAnswering
-    │   │   │       │   │   └── SemanticTranslation
-    │   │   │       │   ├── NonlinearControl
-    │   │   │       │   ├── Robotics
-    │   │   │       │   │   ├── BehaviorBased
-    │   │   │       │   │   ├── Cognitive
-    │   │   │       │   │   ├── Cybernetic
-    │   │   │       │   │   ├── Developmental
-    │   │   │       │   │   ├── Epigenetic
-    │   │   │       │   │   └── Evolutionary
-    │   │   │       │   ├── SpeechGeneration
-    │   │   │       │   ├── StrategicPlanning
-    │   │   │       │   ├── VehicleInfrastructureApplication
-    │   │   │       │   ├── VirtualIntelligence
-    │   │   │       │   └── VirtualReality
-    │   │   │       └── ByApproach
-    │   │   │           ├── Interpretational
-    │   │   │           │   └── GoodOldFashioned
-    │   │   │           ├── Subsymbolic
-    │   │   │           │   ├── BehavioralBased
-    │   │   │           │   │   └── SubsumptionArchitecture
-    │   │   │           │   ├── EarlyCybernetic+BrainSimulation
-    │   │   │           │   ├── Nouvelle
-    │   │   │           │   ├── SoftComputing
-    │   │   │           │   │   ├── ChaosTheory
-    │   │   │           │   │   ├── ComputationalCreativity
-    │   │   │           │   │   ├── EvolutionaryComputation
-    │   │   │           │   │   │   ├── BrainEmotionalLearingBasedIntelligentController
-    │   │   │           │   │   │   ├── EvolutionaryAlgorithms
-    │   │   │           │   │   │   │   ├── DifferentialEvolution
-    │   │   │           │   │   │   │   └── GeneticAlgorithms
-    │   │   │           │   │   │   └── Metaheuristic+SwarmIntelligence
-    │   │   │           │   │   │       ├── AntColonyOptimization
-    │   │   │           │   │   │       └── ParticalSwarmOptimization
-    │   │   │           │   │   ├── FuzzySystems
-    │   │   │           │   │   ├── MachineLearning
-    │   │   │           │   │   │   ├── NeuralNetworks
-    │   │   │           │   │   │   └── SupportVectorMachines
-    │   │   │           │   │   └── ProbabilisticMethods
-    │   │   │           │   │       ├── BayesianNetwork
-    │   │   │           │   │       ├── HiddenMarkovModel
-    │   │   │           │   │       └── KalmanFilter
-    │   │   │           │   └── Statistical
-    │   │   │           └── Symbolic
+    │   │   │   ├── Architecture
+    │   │   │   │   ├── InstructionSetArchitecture
+    │   │   │   │   ├── Microarchitecture
+    │   │   │   │   └── SystemDesign
+    │   │   │   ├── ArtificialIntelligence
+    │   │   │   │   ├── ByApplication
+    │   │   │   │   │   ├── ArtificialCreativity
+    │   │   │   │   │   ├── ArtificialLife
+    │   │   │   │   │   ├── AutomatedPlanning
+    │   │   │   │   │   ├── AutomatedReasoning
+    │   │   │   │   │   ├── AutomaticTargetRecognition
+    │   │   │   │   │   ├── Automation
+    │   │   │   │   │   ├── BiologicalInspiredComputing
+    │   │   │   │   │   ├── ComputerAudition
+    │   │   │   │   │   │   ├── SpeakerRecognition
+    │   │   │   │   │   │   └── SpeechRecognition
+    │   │   │   │   │   ├── ComputerVision
+    │   │   │   │   │   │   ├── FacialRecognition
+    │   │   │   │   │   │   │   └── SilentSpeech
+    │   │   │   │   │   │   ├── ImageProcessing
+    │   │   │   │   │   │   ├── IntelligentWordRecognition
+    │   │   │   │   │   │   ├── ObjectMarkRecognition
+    │   │   │   │   │   │   │   ├── HandwritingRecognition
+    │   │   │   │   │   │   │   └── OpticalCharacterRecognition
+    │   │   │   │   │   │   │       └── AutomaticNumberPlateRecognition
+    │   │   │   │   │   │   └── ObjectRecognition
+    │   │   │   │   │   ├── Diagnosis
+    │   │   │   │   │   ├── ExpertSystem
+    │   │   │   │   │   │   └── DecisionSupportSystem
+    │   │   │   │   │   │       └── ClinicalDecisionSupportSystem
+    │   │   │   │   │   ├── GameAI
+    │   │   │   │   │   │   ├── ComputerGameBot
+    │   │   │   │   │   │   ├── GameTheory
+    │   │   │   │   │   │   ├── GeneralGamePlaying
+    │   │   │   │   │   │   ├── GeneralVideoGamePlaying
+    │   │   │   │   │   │   └── VideoGameAI
+    │   │   │   │   │   │       ├── ComputerChess
+    │   │   │   │   │   │       └── ComputerGo
+    │   │   │   │   │   ├── HybridIntelligentSystem
+    │   │   │   │   │   ├── IntelligentAgent
+    │   │   │   │   │   │   └── AgentArchitecture
+    │   │   │   │   │   │       └── CognitiveArchitecture
+    │   │   │   │   │   ├── IntelligentControl
+    │   │   │   │   │   ├── KnowledgeManagement
+    │   │   │   │   │   │   ├── ConceptMining
+    │   │   │   │   │   │   │   ├── DataMining
+    │   │   │   │   │   │   │   ├── ProcessMining
+    │   │   │   │   │   │   │   └── TextMining
+    │   │   │   │   │   │   ├── InformationExtraction
+    │   │   │   │   │   │   │   ├── ActivityRecognition
+    │   │   │   │   │   │   │   ├── ImageRetrieval
+    │   │   │   │   │   │   │   │   └── AutomaticImageAnnotation
+    │   │   │   │   │   │   │   └── NamedEntityExtraction
+    │   │   │   │   │   │   │       ├── CoreferenceResolution
+    │   │   │   │   │   │   │       ├── NamedEntityRecognition
+    │   │   │   │   │   │   │       ├── RelationshipExtraction
+    │   │   │   │   │   │   │       └── TerminologyExtraction
+    │   │   │   │   │   │   ├── KnowledgeRepresentation
+    │   │   │   │   │   │   ├── SemanticWeb
+    │   │   │   │   │   │   └── SpamFiltering
+    │   │   │   │   │   ├── NaturalLanguageProcessing
+    │   │   │   │   │   │   ├── Chatterbots
+    │   │   │   │   │   │   ├── LanguageIdentification
+    │   │   │   │   │   │   ├── MachineTranslation
+    │   │   │   │   │   │   │   └── StatisticalSemantics
+    │   │   │   │   │   │   ├── NLUnderstanding
+    │   │   │   │   │   │   ├── NLUserInterface
+    │   │   │   │   │   │   ├── QuestionAnswering
+    │   │   │   │   │   │   └── SemanticTranslation
+    │   │   │   │   │   ├── NonlinearControl
+    │   │   │   │   │   ├── Robotics
+    │   │   │   │   │   │   ├── BehaviorBased
+    │   │   │   │   │   │   ├── Cognitive
+    │   │   │   │   │   │   ├── Cybernetic
+    │   │   │   │   │   │   ├── Developmental
+    │   │   │   │   │   │   ├── Epigenetic
+    │   │   │   │   │   │   └── Evolutionary
+    │   │   │   │   │   ├── SpeechGeneration
+    │   │   │   │   │   ├── StrategicPlanning
+    │   │   │   │   │   ├── VehicleInfrastructureApplication
+    │   │   │   │   │   ├── VirtualIntelligence
+    │   │   │   │   │   └── VirtualReality
+    │   │   │   │   └── ByApproach
+    │   │   │   │       ├── Interpretational
+    │   │   │   │       │   └── GoodOldFashioned
+    │   │   │   │       ├── Subsymbolic
+    │   │   │   │       │   ├── BehavioralBased
+    │   │   │   │       │   │   └── SubsumptionArchitecture
+    │   │   │   │       │   ├── EarlyCybernetic+BrainSimulation
+    │   │   │   │       │   ├── Nouvelle
+    │   │   │   │       │   ├── SoftComputing
+    │   │   │   │       │   │   ├── ChaosTheory
+    │   │   │   │       │   │   ├── ComputationalCreativity
+    │   │   │   │       │   │   ├── EvolutionaryComputation
+    │   │   │   │       │   │   │   ├── BrainEmotionalLearingBasedIntelligentController
+    │   │   │   │       │   │   │   ├── EvolutionaryAlgorithms
+    │   │   │   │       │   │   │   │   ├── DifferentialEvolution
+    │   │   │   │       │   │   │   │   └── GeneticAlgorithms
+    │   │   │   │       │   │   │   └── Metaheuristic+SwarmIntelligence
+    │   │   │   │       │   │   │       ├── AntColonyOptimization
+    │   │   │   │       │   │   │       └── ParticalSwarmOptimization
+    │   │   │   │       │   │   ├── FuzzySystems
+    │   │   │   │       │   │   ├── MachineLearning
+    │   │   │   │       │   │   │   ├── NeuralNetworks
+    │   │   │   │       │   │   │   └── SupportVectorMachines
+    │   │   │   │       │   │   └── ProbabilisticMethods
+    │   │   │   │       │   │       ├── BayesianNetwork
+    │   │   │   │       │   │       ├── HiddenMarkovModel
+    │   │   │   │       │   │       └── KalmanFilter
+    │   │   │   │       │   └── Statistical
+    │   │   │   │       └── Symbolic
+    │   │   │   └── Hardware
     │   │   ├── Electrical
     │   │   │   ├── Broadcast
     │   │   │   ├── Building
@@ -477,4 +482,4 @@
         ├── PublicAdministration
         └── Sociology
 
-477 directories
+482 directories
