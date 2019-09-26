@@ -1,5 +1,21 @@
 .
-├── Art
+├── Arts
+│   ├── Literature
+│   │   ├── Drama
+│   │   ├── Poetry
+│   │   └── Prose
+│   ├── Performing
+│   │   ├── Dance
+│   │   ├── Music
+│   │   └── Theatre
+│   └── Visual
+│       ├── Architecture
+│       ├── Ceramics
+│       ├── Drawing
+│       ├── Filmmaking
+│       ├── Painting
+│       ├── Photography
+│       └── Sculpting
 ├── Math
 │   ├── Algebra
 │   │   ├── Abstract
@@ -380,14 +396,35 @@
     │   │   ├── Polymer
     │   │   ├── Security
     │   │   ├── Software
-    │   │   │   ├── ComputerAided
-    │   │   │   ├── InformationTechnology
-    │   │   │   ├── Knowledge
+    │   │   │   ├── Databases
+    │   │   │   ├── GraphicalUserInterface
     │   │   │   ├── Language
-    │   │   │   ├── Release
-    │   │   │   ├── Teletraffic
-    │   │   │   ├── Usability
-    │   │   │   └── Web
+    │   │   │   │   ├── Design
+    │   │   │   │   ├── Markup
+    │   │   │   │   │   ├── HTML
+    │   │   │   │   │   ├── Markdown
+    │   │   │   │   │   └── XML
+    │   │   │   │   ├── Programming
+    │   │   │   │   │   ├── Agda
+    │   │   │   │   │   ├── C
+    │   │   │   │   │   ├── C#
+    │   │   │   │   │   ├── C++
+    │   │   │   │   │   ├── Coq
+    │   │   │   │   │   ├── Elixir
+    │   │   │   │   │   ├── Erlang
+    │   │   │   │   │   ├── F*
+    │   │   │   │   │   ├── F#
+    │   │   │   │   │   ├── Go
+    │   │   │   │   │   ├── Haskell
+    │   │   │   │   │   ├── Java
+    │   │   │   │   │   ├── JavaScript
+    │   │   │   │   │   └── PureScript
+    │   │   │   │   └── StyleSheet
+    │   │   │   ├── Libraries
+    │   │   │   ├── Paradigm
+    │   │   │   ├── Patterns
+    │   │   │   ├── Processes
+    │   │   │   └── Tools
     │   │   ├── Systems
     │   │   └── Textile
     │   ├── Environmental
@@ -482,4 +519,4 @@
         ├── PublicAdministration
         └── Sociology
 
-482 directories
+519 directories
