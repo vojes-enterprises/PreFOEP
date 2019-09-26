@@ -29,7 +29,7 @@ alias commit='git commit'
 alias push='git push github && git push gitlab && git push srht'
 
 # check the status of the current branch (and much more)
-alias status=' git status --column=plain --renames --ignored=traditional --show-stash --untracked-files=normal --branch --verbose'
+alias status='git status --column=plain --renames --ignored=traditional --show-stash --untracked-files=normal --branch --verbose | less'
 
 # make a branch
 alias mkbranch='git checkout -b'
