@@ -12,7 +12,12 @@
 ### Organization ###
 # makes a directory for a subject with an template README.md file
 # empty directories will not be added to git
-alias mksub='read a; for i in $a; do mkdir $i; touch $i/README.md; done'
+alias mksub='read a; \
+             for i in $a; 
+             do \
+                 mkdir $i; \
+                 touch $i/README.md; \
+             done'
 
 # run after making changes to folders (directories) 
 alias mktree='tree -d > tree.txt'
@@ -26,10 +31,18 @@ alias add='git add -p'
 alias commit='git commit'
 
 # push to github and gitlab - uploads to remote git repos
-alias push='git push github && git push gitlab && git push srht'
+alias push='git push github && \
+            git push gitlab && \
+            git push srht'
 
 # check the status of the current branch (and much more)
-alias status='git status --column=plain --renames --ignored=traditional --show-stash --untracked-files=normal --branch --verbose | less'
+alias status='git status --column=plain \
+                         --renames \
+                         --ignored=traditional \
+                         --show-stash \
+                         --untracked-files=normal \
+                         --branch \
+                         --verbose | less'
 
 # make a branch
 alias mkbranch='git checkout -b'
