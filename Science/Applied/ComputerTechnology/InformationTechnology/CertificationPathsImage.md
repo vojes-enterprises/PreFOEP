@@ -1,0 +1,1 @@
+<img src="https://images-ext-1.discordapp.net/external/hiUjgTP_GOGvEBQVuljX7bwrnLs-tG6S32W3zVFTDnQ/https/cdn.discordapp.com/attachments/564930710075473936/620995719934902283/CertificationBingo.PNG?width=400&height=228">
