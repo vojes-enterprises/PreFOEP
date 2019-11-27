@@ -2,3 +2,4 @@
 [Learn You a Haskell](learnyouahaskell.com)
 [Haskell WikiBook](wikibooks.org/wiki/Haskell)
 [Real World Haskell](http://book.realworldhaskell.org/read)
+[Learn fp](https://github.com/bitemyapp/fp-course)
