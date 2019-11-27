@@ -90,6 +90,9 @@ Addition is defined entry wise:
 
 
 And scalar multiplication is defined as:
+
+
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=c&space;\in&space;\mathbb{R}&space;,&space;cv&space;=&space;c\begin{pmatrix}&space;v_1\\&space;v_2\\&space;v_3&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;cv_1\\&space;cv_2\\&space;cv_3&space;\end{pmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?c&space;\in&space;\mathbb{R}&space;,&space;cv&space;=&space;c\begin{pmatrix}&space;v_1\\&space;v_2\\&space;v_3&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;cv_1\\&space;cv_2\\&space;cv_3&space;\end{pmatrix}" title="c \in \mathbb{R} , cv = c\begin{pmatrix} v_1\\ v_2\\ v_3 \end{pmatrix} = \begin{pmatrix} cv_1\\ cv_2\\ cv_3 \end{pmatrix}" /></a>
 
 ### Linear Combinations
@@ -120,7 +123,9 @@ Let $V$ be the set of vectors:
 
 ## Matrices
 
-Vectors can be thought of as $\mathbb{R}^{n \times 1}$ matrices, and scalars $\mathbb{R}^{1 \times 1}$ matrices. They are special cases of matrices though, as we'll see, some operations are not defined with matrices.  
+<a href="https://www.codecogs.com/eqnedit.php?latex=\textrm{Vectors&space;can&space;be&space;thought&space;of&space;as&space;}&space;$\mathbb{R}^{n&space;\times&space;1}$&space;\textrm{&space;matrices,&space;and&space;scalars&space;}$\mathbb{R}^{1&space;\times&space;1}$&space;\textrm{&space;matrices.&space;They&space;are&space;special&space;cases&space;of&space;matrices&space;though,&space;as&space;we'll&space;see,&space;some&space;operations&space;are&space;not&space;defined&space;with&space;matrices.&space;}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\textrm{Vectors&space;can&space;be&space;thought&space;of&space;as&space;}&space;$\mathbb{R}^{n&space;\times&space;1}$&space;\textrm{&space;matrices,&space;and&space;scalars&space;}$\mathbb{R}^{1&space;\times&space;1}$&space;\textrm{&space;matrices.&space;They&space;are&space;special&space;cases&space;of&space;matrices&space;though,&space;as&space;we'll&space;see,&space;some&space;operations&space;are&space;not&space;defined&space;with&space;matrices.&space;}" title="\textrm{Vectors can be thought of as } $\mathbb{R}^{n \times 1}$ \textrm{ matrices, and scalars }$\mathbb{R}^{1 \times 1}$ \textrm{ matrices. They are special cases of matrices though, as we'll see, some operations are not defined with matrices. }" /></a>
+
+
 
 Let $V$ be a set of vectors, 
 <a href="https://www.codecogs.com/eqnedit.php?latex=V&space;=&space;\{&space;\begin{pmatrix}v_1\\v_2\\v_3\end{pmatrix}&space;,&space;\begin{pmatrix}v_4\\v_5\\v_6\end{pmatrix}&space;,&space;\begin{pmatrix}v_7\\v_8\\v_9\end{pmatrix}&space;\}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V&space;=&space;\{&space;\begin{pmatrix}v_1\\v_2\\v_3\end{pmatrix}&space;,&space;\begin{pmatrix}v_4\\v_5\\v_6\end{pmatrix}&space;,&space;\begin{pmatrix}v_7\\v_8\\v_9\end{pmatrix}&space;\}" title="V = \{ \begin{pmatrix}v_1\\v_2\\v_3\end{pmatrix} , \begin{pmatrix}v_4\\v_5\\v_6\end{pmatrix} , \begin{pmatrix}v_7\\v_8\\v_9\end{pmatrix} \}" /></a>
