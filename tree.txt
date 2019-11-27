@@ -2,6 +2,7 @@
 ├── Arts
 │   ├── Literature
 │   │   ├── Drama
+│   │   ├── Fantasy
 │   │   ├── Poetry
 │   │   └── Prose
 │   ├── Performing
@@ -16,6 +17,7 @@
 │       ├── Painting
 │       ├── Photography
 │       └── Sculpting
+├── docs
 ├── Math
 │   ├── Algebra
 │   │   ├── Abstract
@@ -91,6 +93,7 @@
 │       ├── Differential
 │       └── Geometric
 ├── Philosophy
+│   └── FreeAndOpen
 ├── Programming
 └── Science
     ├── Applied
@@ -124,6 +127,8 @@
     │   │   └── BuildingScience
     │   ├── ComputerTechnology
     │   │   ├── ComputerEngineering
+    │   │   ├── InformationSecurity
+    │   │   │   └── Cryptography
     │   │   ├── InformationSystems
     │   │   └── InformationTechnology
     │   ├── Electronics
@@ -412,13 +417,15 @@
     │   │   │   │   │   ├── Coq
     │   │   │   │   │   ├── Elixir
     │   │   │   │   │   ├── Erlang
-    │   │   │   │   │   ├── F*
     │   │   │   │   │   ├── F#
+    │   │   │   │   │   ├── Fstar
     │   │   │   │   │   ├── Go
     │   │   │   │   │   ├── Haskell
     │   │   │   │   │   ├── Java
     │   │   │   │   │   ├── JavaScript
-    │   │   │   │   │   └── PureScript
+    │   │   │   │   │   ├── Powershell
+    │   │   │   │   │   ├── PureScript
+    │   │   │   │   │   └── Python
     │   │   │   │   └── StyleSheet
     │   │   │   ├── Libraries
     │   │   │   ├── Paradigm
@@ -519,4 +526,4 @@
         ├── PublicAdministration
         └── Sociology
 
-519 directories
+526 directories
