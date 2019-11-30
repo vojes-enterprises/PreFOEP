@@ -154,12 +154,14 @@ Seeing how matrix multiplication is defined, we can also see that <a href="https
 
 If you want to keep learning about linear algebra, here are some **free** resources.
 
-3Blue1Brown's "Essence of" playlist: https://youtu.be/fNk_zzaMoSs
+
+[3Blue1Brown Essence of Linear Algebra Video Series](https://youtu.be/fNk_zzaMoSs)
 Great for intuitive explanations and amazing visuals.
 
 
-MIT course: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
-Great intro to linear algebra. Should be very similar to any undergraduate course taken at a college.
+
+
+[MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) is a great intro to linear algebra.  Should be very similar to any undergraduate course taken at a college.
 
 
 
