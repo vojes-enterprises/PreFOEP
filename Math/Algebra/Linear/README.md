@@ -14,9 +14,7 @@ Linear Algebra is arguably the most applicable math subject there is. It is used
 Have you ever thought about why Google is the number one search engine? 
 The main reason is because it is *so* good at ranking webpages in order of relevance when you search some words. 
 
-**The $25,000,000,000 Eigenvector, The Linear Algebra Behind Google:**
-**Paper:** https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf
-
+[The $25,000,000,000 Eigenvector, The Linear Algebra Behind Google:](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
 ---
 
 **Robotic Coordinate Frames**
@@ -53,12 +51,10 @@ So, now hopefully you are effectively motivated to learn more about linear algeb
 ## Prerequisites
 1.) Discrete Math
 - Mainly you want to be exposed to some proof techniques before you start linear algebra,
-- Also helpful to understand *fields*<sup>1*</sup>
+- Also helpful to understand [fields](https://en.wikipedia.org/wiki/Field_(mathematics))
 
 2.) Basic trig
   
-
-1* https://en.wikipedia.org/wiki/Field_(mathematics)
 
 
 
