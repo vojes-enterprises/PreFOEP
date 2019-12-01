@@ -1,73 +1,15 @@
-(needs organization)
-### Gnu Privacy Guard
+ ## Books
 
-<https://help.github.com/en/articles/generating-a-new-gpg-key>
-<https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages>
-<https://www.thepolyglotdeveloper.com/2018/12/manage-passwords-gpg-command-line-pass/>
-<http://www.webhostingtalk.com/showthread.php?t=96244>
+See also [DEF CON Suggested Reading](https://www.defcon.org/html/links/book-list.html).
 
-### Operating Systems
+### Hacker's Handbook Series Books
 
-#### Android
-
-FOSS Software: <https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications>
-
-#### Linux
-
-Friendly teaser: <https://youtu.be/Co6FePZoNgE>
-Just getting started: <http://www.linuxcommand.org>
-Introduction to NixOS: <https://youtu.be/c_lyvedQEyI>
-
-
-### Virtualization
-
-<https://en.wikipedia.org/wiki/Virtualization>
-
-#### Hardware Level
-
-##### Native
-
-Hyper-V
-KVM
-  - oVirt 
-  - Proxmox
-VMware ESXi
-Xen
-  - XOA
-
-##### Hosted
-
-###### Specialized
-
-###### Independent
-
-VMware Fusion
-VMware Player
-VMware Server
-VMware Workstation
-VirtualBox
-Parallels
-
-### OS Level
-
-##### OS Implementation
-
-chroot
-FreeBSD jail
-LXC
-  - LXD
-  - Proxmox (no HA for LXC)
-OpenVZ
-Solaris Container
-vkernel
-
-##### Application Containers
-
-Docker
-rkt
-
-##### Orchestration
-
-Elastic Compute Cloud
-Kubernetes
-OpenShift
+* [Android Hacker's Handbook by Joshua J. Drake et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-111860864X.html)
+* [Car Hacker's Handbook by Craig Smith, 2016](https://nostarch.com/carhacking)
+* [The Browser Hacker's Handbook by Wade Alcorn et al., 2014](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118662091.html)
+* [The Database Hacker's Handbook, David Litchfield et al., 2005](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764578014.html)
+* [The Mac Hacker's Handbook by Charlie Miller & Dino Dai Zovi, 2009](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470395362.html)
+* [The Mobile Application Hacker's Handbook by Dominic Chell et al., 2015](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118958500.html)
+* [The Shellcoder's Handbook by Chris Anley et al., 2007](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047008023X.html)
+* [The Web Application Hacker's Handbook by D. Stuttard, M. Pinto, 2011](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118026470.html)
+* [iOS Hacker's Handbook by Charlie Miller et al., 2012](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118204123.html)
