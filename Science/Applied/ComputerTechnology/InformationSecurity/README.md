@@ -39,3 +39,17 @@ See also [DEF CON Suggested Reading](https://www.defcon.org/html/links/book-list
 * [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
 * [T&VS Pentesting Report Template](https://www.testandverification.com/wp-content/uploads/template-penetration-testing-report-v03.pdf) - Pentest report template provided by Test and Verification Services, Ltd.
 * [Web Application Security Assessment Report Template](http://lucideus.com/pdf/stw.pdf) - Sample Web application security assessment reporting template provided by Lucideus.
+
+## Operating System Distributions for Penetration Testing
+
+* [Android Tamer](https://androidtamer.com/) - Distribution built for Android security professionals that includes tools required for Android security testing.
+* [ArchStrike](https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
+* [AttifyOS](https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
+* [BackBox](https://backbox.org/) - Ubuntu-based distribution for penetration tests and security assessments.
+* [BlackArch](https://www.blackarch.org/) - Arch GNU/Linux-based distribution for penetration testers and security researchers.
+* [Buscador](https://inteltechniques.com/buscador/) - GNU/Linux virtual machine that is pre-configured for online investigators.
+* [Kali](https://www.kali.org/) - Rolling Debian-based GNU/Linux distribution designed for penetration testing and digital forensics.
+* [Network Security Toolkit (NST)](http://networksecuritytoolkit.org/) - Fedora-based GNU/Linux bootable live Operating System designed to provide easy access to best-of-breed open source network security applications.
+* [Parrot](https://www.parrotsec.org/) - Distribution similar to Kali, with support for multiple hardware architectures.
+* [PentestBox](https://pentestbox.org/) - Open source pre-configured portable penetration testing environment for the Windows Operating System.
+* [The Pentesters Framework](https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that omits less frequently used utilities.
