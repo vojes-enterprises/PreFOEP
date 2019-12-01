@@ -151,3 +151,11 @@
 * [cms-explorer](https://code.google.com/archive/p/cms-explorer/) - Reveal the specific modules, plugins, components and themes that various websites powered by content management systems are running.
 * [joomscan](https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project) - Joomla vulnerability scanner.
 * [w3af](https://github.com/andresriancho/w3af) - Web application attack and audit framework.
+
+### Network device discovery tools
+
+* [AQUATONE](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
+* [Censys](https://www.censys.io/) - Collects data on hosts and websites through daily ZMap and ZGrab scans.
+* [OWASP Amass](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
+* [Shodan](https://www.shodan.io/) - World's first search engine for Internet-connected devices.
+* [ZoomEye](https://www.zoomeye.org/) - Search engine for cyberspace that lets the user find specific network components.
