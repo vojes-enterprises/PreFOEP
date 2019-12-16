@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/BcBJOWq.png) 
+![Imgur](https://i.imgur.com/BcBJOWq.png?1) 
 
 ![Badge](https://img.shields.io/badge/VE-FOEP-blue)
 
