@@ -1,0 +1,3 @@
+#Courses
+
+* [MIT OCW - Thermal Energy](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-050-thermal-energy-fall-2002/): This course is taught in four main parts. The first is a review of fundamental thermodynamic concepts (e.g. energy exchange in propulsion and power processes), and is followed by the second law (e.g. reversibility and irreversibility, lost work). Next are applications of thermodynamics to engineering systems (e.g. propulsion and power cycles, thermo chemistry), and the course concludes with fundamentals of heat transfer (e.g. heat exchange in aerospace devices).
