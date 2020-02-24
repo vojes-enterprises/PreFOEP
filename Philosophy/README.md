@@ -10,13 +10,15 @@ This [course](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-251-intr
 
 **Jack Sanders** - Introduction to Philosophy [Lectures](https://www.youtube.com/playlist?list=PLcmaziH9sW6Mrn0295JVs2in_ni2g0XLS)
 
-## Plato (Person)
+# Notable Philosophers
+
+## Plato
 
 [Phaedo](https://www.goodreads.com/book/show/982310.Phaedo) [download](https://archive.org/details/platosphaedo00platuoft/page/n8/mode/2up) provided by University of Toronto scanning center
 
-[The Republic(https://www.goodreads.com/book/show/30289.The_Republic) [download](https://archive.org/details/a604578400platuoft/page/n6/mode/2up) provided by Saint Mary's College of California
+[The Republic](https://www.goodreads.com/book/show/30289.The_Republic) [download](https://archive.org/details/a604578400platuoft/page/n6/mode/2up) provided by Saint Mary's College of California
 
-## David Hume (Person)
+## David Hume
 
 [An Enquiry Concerning Human Understanding](https://www.goodreads.com/book/show/130119.An_Enquiry_Concerning_Human_Understanding)
 
