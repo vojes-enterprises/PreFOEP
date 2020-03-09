@@ -159,6 +159,7 @@ Great for intuitive explanations and amazing visuals.
 
 [MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) is a great intro to linear algebra.  Should be very similar to any undergraduate course taken at a college.
 
-
+## Books on Linear Algebra
+- Linear Algebra Done Right, Sheldon Axler [goodreads](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) [download](http://tomlr.free.fr/Math%E9matiques/Math%20Complete/Algebra/Linear%20Algebra%20Done%20Right%2C%202nd%20Ed%20-%20Sheldon%20Axler.pdf)
 
 *TODO* Add graphics, add linear transformation section. 
